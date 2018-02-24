@@ -1,6 +1,5 @@
 *.swp
 *.o
-*.exe
 CoRoSensorUI
 *.dll
 *.pro.*
